@@ -32,7 +32,6 @@ You can find the project plan [Here][].
 - Axios (HTTP client)
 - React Router DOM
 - Recharts (data visualization)
-- Heroicons
 
 ---
 
